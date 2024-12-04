@@ -12,3 +12,4 @@
 /home/jorge/Repos/Prueba/Prueba/obj/Debug/net8.0/Prueba.pdb
 /home/jorge/Repos/Prueba/Prueba/obj/Debug/net8.0/Prueba.genruntimeconfig.cache
 /home/jorge/Repos/Prueba/Prueba/obj/Debug/net8.0/ref/Prueba.dll
+/home/jorge/Repos/Prueba/Prueba/obj/Debug/net8.0/Prueba.sourcelink.json
