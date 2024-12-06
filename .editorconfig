@@ -1,4 +1,10 @@
 [*.cs]
 
+<<<<<<< HEAD
+=======
+# IDE0210: Convertir en instrucciones de nivel superior
+csharp_style_prefer_top_level_statements = true
+
+>>>>>>> entradateclado
 # CS8600: Se va a convertir un literal nulo o un posible valor nulo en un tipo que no acepta valores NULL
 dotnet_diagnostic.CS8600.severity = silent
