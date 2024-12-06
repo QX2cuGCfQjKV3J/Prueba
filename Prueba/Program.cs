@@ -1,8 +1,5 @@
-﻿string nombre = "Jorge";
-Console.WriteLine($"Hola {nombre}, buenos días.");
+﻿string nombre;
+Console.Write("Introduce tu nombre: ");
+nombre = Console.ReadLine();
 Console.WriteLine();
-Console.WriteLine();
-Console.WriteLine();
-Console.WriteLine();
-Console.WriteLine("Modificado desde GitHub");
-Console.ReadKey();
+Console.WriteLine($"Hola {nombre}, bienvenido a C Sharp");
